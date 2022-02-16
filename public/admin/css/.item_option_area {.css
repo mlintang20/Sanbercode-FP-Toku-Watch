@@ -1,0 +1,141 @@
+.item_option_area {
+    padding-bottom: 100px;
+    margin-top: 60px
+}
+
+.item_option_area .nav.nav-tabs-right {
+    background: #f1f6f7;
+    text-align: center;
+    display: block;
+    border: none;
+    padding: 10px 0px
+}
+
+.item_option_area .nav.nav-tabs-right li {
+    display: inline-block;
+    margin-right: 7px
+}
+
+.item_option_area .nav.nav-tabs-right li:last-child {
+    margin-right: 0px
+}
+
+@media (max-width: 441px) {
+    .item_option_area .nav.nav-tabs-right li:last-child {
+        margin-top: 15px
+    }
+}
+
+.item_option_area .nav.nav-tabs-right li a {
+    padding: 0px;
+    border: none;
+    line-height: 38px;
+    background: #fff;
+    border: 1px solid #eeeeee;
+    border-radius: 30px;
+    padding: 0px 30px;
+    color: #222;
+    font-size: 14px;
+    font-weight: normal
+}
+
+@media (max-width: 570px) {
+    .item_option_area .nav.nav-tabs-right li a {
+        padding: 0 15px
+    }
+}
+
+.item_option_area .nav.nav-tabs-right li a.active {
+    color: #fff;
+    background: #384aeb;
+    border-color: #384aeb
+}
+
+.item_option_area .tab-content {
+    border-left: 1px solid #eee;
+    border-right: 1px solid #eee;
+    border-bottom: 1px solid #eee;
+    padding: 30px 30px 15px 30px
+}
+
+.item_option_area .tab-content .total_rate .box_total {
+    background: #f1f6f7;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px
+}
+
+.item_option_area .tab-content .total_rate .box_total h4 {
+    font-size: 48px;
+    font-weight: bold;
+    color: #384aeb
+}
+
+.item_option_area .tab-content .total_rate .box_total h5 {
+    color: #333333;
+    margin-bottom: 0px;
+    font-size: 24px
+}
+
+.item_option_area .tab-content .total_rate .box_total h6 {
+    font-family: "Roboto", sans-serif;
+    margin-bottom: 0px;
+    font-size: 14px;
+    color: #555555;
+    font-weight: normal
+}
+
+.item_option_area .tab-content .total_rate .rating_list {
+    margin-bottom: 30px
+}
+
+.item_option_area .tab-content .total_rate .rating_list h3 {
+    font-size: 18px;
+    color: #222;
+    font-weight: 500;
+    margin-bottom: 10px
+}
+
+.item_option_area .tab-content .total_rate .rating_list .list li a {
+    font-size: 15px;
+    color: #555555
+}
+
+.item_option_area .tab-content .total_rate .rating_list .list li a i {
+    color: #fbd600
+}
+
+.item_option_area .tab-content .total_rate .rating_list .list li a i:first-child {
+    margin-left: 15px
+}
+
+.item_option_area .tab-content .total_rate .rating_list .list li a i:last-child {
+    margin-right: 15px
+}
+
+.item_option_area .tab-content .total_rate .rating_list .list li:nth-child a i:last-child {
+    color: #eeeeee
+}
+
+.item_option_area .tab-content .table {
+    margin-bottom: 0px
+}
+
+.item_option_area .tab-content .table tbody tr td {
+    padding-left: 65px;
+    padding-right: 65px;
+    padding-top: 14px;
+    padding-bottom: 14px
+}
+
+.item_option_area .tab-content .table tbody tr td h5 {
+    font-size: 14px;
+    font-weight: normal;
+    color: #777;
+    margin-bottom: 0px;
+    white-space: nowrap
+}
+
+.item_option_area .tab-content .table tbody tr:first-child td {
+    border-top: 0px
+}
