@@ -1,3 +1,11 @@
+# This repository is just a clone of Gitlab repository
+
+### To see the original source, click this link:
+
+https://gitlab.com/Kadigas/toku-watch.git
+
+<br>
+
 # Final Project
 
 # Kelompok 11
